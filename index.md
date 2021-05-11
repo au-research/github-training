@@ -1,4 +1,13 @@
+---
+title: GitHub for collaborative projects
+permalink: /
+---
+
 Welcome to the Australian Research Data Commons' *GitHub for Collaborative Projects* course!
+
+| Time | Episode |
+| --- | --- |
+| 0:00 | [Setup and introductions](/0-setup-and-introductions) |
 
 ## Course team
 
