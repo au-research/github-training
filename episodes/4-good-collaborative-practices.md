@@ -3,8 +3,6 @@ title: Good collaborative practices
 permalink: /4-good-collaborative-practices
 ---
 
-# Good collaborative practices
-
 *For this episode you will need a partner. Zoom host has assigned learners in pairs, Pair up and exchange GitHub usernames.*
 
 In GitHub, issues are a way of creating, assigning, and tracking tasks in a project. The way issues are used in a project should be agreed upon by the members of the project team.

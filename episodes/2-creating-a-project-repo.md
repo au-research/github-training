@@ -3,8 +3,6 @@ title: Creating a project repo
 permalink: /2-creating-a-project-repo
 ---
 
-# Creating a project repo
-
 Teaching 5 minutes
 Activity 10 minutes
 

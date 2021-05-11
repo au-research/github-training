@@ -3,8 +3,6 @@ title: Editing a file
 permalink: /3-editing-a-file
 ---
 
-# Editing a file
-
 ## Before we edit - Markdown
 
 You might notice that GitHub can render files with formatting similar to documents and websites - headers, **bold**, *italic*, _underline_, and dot points.

@@ -12,6 +12,7 @@ Welcome to the Australian Research Data Commons' *GitHub for Collaborative Proje
 | 0:00 | [Creating a project repo]({{ site.baseurl }}/2-creating-a-project) |
 | 0:00 | [Editing a file]({{ site.baseurl }}/3-editing-a-file) |
 | 0:00 | [Good collaborative practices]({{ site.baseurl }}/4-good-collaborative-practices) |
+| 0:00 | [Contributing to a repo]({{ site.baseurl }}/5-contributing-to-a-repo) |
 
 ## Course team
 

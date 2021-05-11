@@ -3,7 +3,6 @@ title: Using GitHub to manage non-code projects
 permalink: /1-using-github-to-manage-non-code-projects
 ---
 
-# Why use GitHub to manage non-code projects?
 Teaching: 5 minutes
 
 GitHub originally started as a collaborative platform for software development projects. Based on git, it has a robust version control system that allows one or more people to work concurrently on a project, have a formal review process, and manage conflicts between contributions.

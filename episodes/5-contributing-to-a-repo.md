@@ -3,8 +3,6 @@ title: Contributing to a repo
 permalink: /5-contributing-to-a-repo
 ---
 
-# Contributing to a repo that is not yours
-
 *For this episode you will need a partner. Pair up and exchange GitHub usernames.*
 
 If you are making contributions to a repo that belongs to someone else, there is a good chance that you will not be able to push changes directly to it (unless you have been given push privileges).
