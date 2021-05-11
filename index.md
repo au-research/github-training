@@ -7,7 +7,7 @@ Welcome to the Australian Research Data Commons' *GitHub for Collaborative Proje
 
 | Time | Episode |
 | --- | --- |
-| 0:00 | [Setup and introductions](/0-setup-and-introductions) |
+| 0:00 | [Setup and introductions]({{ site.baseurl }}/0-setup-and-introductions) |
 
 ## Course team
 
