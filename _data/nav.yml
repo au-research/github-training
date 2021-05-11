@@ -2,10 +2,10 @@ docs_list_title: Navigation
 docs:
 
 - title: Contributing
-  url: /contributing
+  url: contributing
 
 - title: Reuse
-  url: /reuse
+  url: reuse
 
 - title: FAQs
   url: faqs
