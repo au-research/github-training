@@ -31,5 +31,3 @@ A repository is a place to store all of the components of a single project, or p
 **Note**: GitHub lets you choose a licence when creating a new repository. None of them are appropriate for a non-software project in Australia - the Creative Commons Zero licence has dubious legality here. Unfortunately, GitHub does not let you apply a Creative Commons Attribution 4.0 or derivative license at this step, but we can add one later.
 
 If you are working for an organisation, it might already have its own GitHub presence. You might need to contact one of your colleagues to have a repo created. When you do, specify whether you want a new repository or to clone an existing one. You will also need to provide a list of the collaborators who own the repo.
-
-For ARDC staff, email [services@ardc.edu.au].
