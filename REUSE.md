@@ -1,3 +1,8 @@
+---
+title: Reuse
+permalink: /reuse
+---
+
 ## Ways to reuse the FAIR Data 101 material:
 
 -   Use as a self paced learning activity or as a refresher
@@ -45,7 +50,7 @@ them by tweeting to
 the [Data Librarians
 Slack Workspace](https://tiny.cc/data-librarians).
 
-## License for reuse of FAIR Data 101 materials
+## License for reuse of GitHub for collaborative projects materials
 
 All FAIR Data 101 materials are licensed under a [Creative
 Commons Attribution 4.0 licence (CC-BY)](https://creativecommons.org/licenses/by/4.0/), meaning you can reuse and republish with attribution to the
@@ -58,10 +63,6 @@ submit an issue or a pull request and we’ll add them to the
 tool-kit. Let’s share as much as we can!
 
 A snapshot of this repository is periodically saved to Zenodo, after major updates. Please use the suggested citation from the latest version of the Zenodo record if you want to cite any of these materials.
-
-### Source material for FAIR Data 101
-
-The source material is available in Markdown format from the [ARDC github repository](https://github.com/au-research/FAIR-data-101-training/). Markdown is a light weight markdown language that can be converted into a number of different formats, including HTML.
 
 ## Examples of reuse
 

@@ -1,17 +1,11 @@
 docs_list_title: Navigation
 docs:
 
-- title: Findable
-  url: findable
+- title: Contributing
+  url: /contributing
 
-- title: Accessible
-  url: accessible
-
-- title: Interoperable
-  url: interoperable
-
-- title: Reusable
-  url: reusable
+- title: Reuse
+  url: /reuse
 
 - title: FAQs
   url: faqs
