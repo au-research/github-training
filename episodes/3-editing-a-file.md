@@ -3,11 +3,17 @@ title: Editing a file
 permalink: /3-editing-a-file
 ---
 
+At the end of this episode, learners will be able to:
+* Refer to markdown documentation
+* Edit a file in their own GitHub repo
+Teaching: 15 minutes
+Activities: 20 minutes
+
 ## Before we edit - Markdown
 
 You might notice that GitHub can render files with formatting similar to documents and websites - headers, **bold**, *italic*, _underline_, and dot points.
 
-It does this by using a markup language known as markdown. Markdown lets an author use characters to apply formatting to their text. As an example, inspect the ["raw" markdown](https://raw.githubusercontent.com/au-research/your-first-step-to-fair/main/1-introduction.md) for some [teaching material](https://github.com/au-research/your-first-step-to-fair/blob/main/1-introduction.md).
+It does this by using a markup language known as markdown. Markdown lets an author use characters to apply formatting to their text. As an example, inspect the ["raw" markdown](https://raw.githubusercontent.com/au-research/your-first-step-to-fair/main/1-introduction.md) for some [teaching material](https://github.com/au-research/your-first-step-to-fair/blob/main/1-introduction.md). You can also use a service like [HackMD](https://hackmd.io/cSdCixNBSICU4yor5sxwjQ?both) to simultaneously view markdown and the rendered text.
 
 GitHub uses some conventions beyond standard markdown, and so it uses what is called "GitHub-flavored markdown". GitHub has published [a guide for the different formatting options](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) and syntax to using them.
 
@@ -26,6 +32,8 @@ If you *do* have the right to edit files, you can edit the file and commit the c
 
 If you *do not* have the right to edit files, GitHub will automatically fork the repo for you to work in, and let you submit a pull request so that your changes can be reviewed before being incorporated.
 
-**Activity** (15 minutes): Edit the README.md file in the repo you created in episode 2. Use some markdown formatting before committing your changes directly to the main branch. Do not create a new branch and start a pull request - we will be doing that later in this workshop.
+**Demonstration** (5 minutes): Create a LICENCE.md file containg the text of your preferred Creative Commons licence (but not CC0!)
 
-**Activity** (5 minutes): Edit the README.md file for this lesson. Notice that you cannot commit changes directly and only have the option to propose changes.
+**Challenge** (15 minutes): Edit the README.md file in the repo you created in episode 2. Use some markdown formatting before committing your changes directly to the main branch. Do not create a new branch and start a pull request - we will be doing that later in this workshop.
+
+**Challenge** (5 minutes): Edit the [README.md file for this lesson](https://github.com/au-research/github-training/blob/main/README.md). What happens differently?

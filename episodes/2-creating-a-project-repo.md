@@ -3,8 +3,10 @@ title: Creating a project repo
 permalink: /2-creating-a-project-repo
 ---
 
-Teaching 5 minutes
-Activity 10 minutes
+At the end of this episode, learners will be able to:
+* Define what a "repo" is
+* Create a GitHub repository
+Teaching 15 minutes
 
 A repository is a place to store all of the components of a single project, or parts of a single project if that project is very large. It is not good practice to have multiple projects in a single repository.
 
@@ -16,15 +18,14 @@ A repository is a place to store all of the components of a single project, or p
 
 [Fork a repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) if you wish to work on your own version of a project that maintains a relationship with the upstream (original) repo, or if you wish to propose changes to an existing repo.
 
-**Activity** (5 minutes): Create a new public repository with a description and a README file. I want everyone to follow along with me for this step.
+**Demonstration** (10 minutes): Create a new public repository with a description and a README file.
 
 1. Log into GitHub
 1. Select new repository button
 1. No template
-1. What is a good name (short and memorable and use a hyphen!)
-1. What is a good description (Learning how to use GitHub)
-1. Checkboxes
-  [] add a readme
+1. Enter a good name and description
+1. Check the correct boxes
+  [x] add a readme
   [] .gitignore
   [] choose a licence
 
