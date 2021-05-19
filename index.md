@@ -9,7 +9,7 @@ Welcome to the Australian Research Data Commons' *GitHub for Collaborative Proje
 | --- | --- |
 | 0:00 | [Setup and introductions]({{ site.baseurl }}/0-setup-and-introductions) |
 | 0:00 | [Using GitHub to manage non-code projects]({{ site.baseurl }}/1-using-github-to-manage-non-code-projects) |
-| 0:00 | [Creating a project repo]({{ site.baseurl }}/2-creating-a-project) |
+| 0:00 | [Creating a project repo]({{ site.baseurl }}/2-creating-a-project-repo) |
 | 0:00 | [Editing a file]({{ site.baseurl }}/3-editing-a-file) |
 | 0:00 | [Good collaborative practices]({{ site.baseurl }}/4-good-collaborative-practices) |
 | 0:00 | [Contributing to a repo]({{ site.baseurl }}/5-contributing-to-a-repo) |
