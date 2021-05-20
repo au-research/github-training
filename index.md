@@ -15,7 +15,7 @@ Welcome to the Australian Research Data Commons' *GitHub for Collaborative Proje
 | 1:35 | [Good collaborative practices]({{ site.baseurl }}/4-good-collaborative-practices) |
 | 1:55 | [Contributing to a repo]({{ site.baseurl }}/5-contributing-to-a-repo) |
 | 2:30 | BREAK 30 mins |
-| 3:00 | Extra features |
+| 3:00 | [Extra features]({{ site.baseurl }}/6-extra-features) |
 | 3:15 | Feedback and wrap up |
 | 3:30 | Close |
 
