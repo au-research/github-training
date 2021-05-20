@@ -21,11 +21,6 @@ Markdown itself is a free and open standard, which means that anybody can incorp
 
 ## Editing a file
 
-Demonstrate editing a file using a scenario like:
-* Writing a readme file for training materials
-* Creating index page of collaborators
-* Outline of book chapter draft
-
 Every file you view in GitHub should have an edit icon above it. When you click that icon, GitHub will behave differently depending on whether you have the right to edit files in that repo.
 
 If you *do* have the right to edit files, you can edit the file and commit the changes directly back to the repo. You will also have the option to create a new branch with your changes and submit a pull request so that your changes can be reviewed before being incorporated.
