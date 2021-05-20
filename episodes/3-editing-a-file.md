@@ -36,6 +36,6 @@ If you *do not* have the right to edit files, GitHub will automatically fork the
 
 **Challenge** (15 minutes): Edit the README.md file in the repo you created in episode 2. Use some markdown formatting to add a link to LICENCE.md before committing your changes directly to the main branch. Do not create a new branch and start a pull request - we will be doing that later in this workshop.
 
-You might like to use https://readme.so/ to help you structure your README.
+You might like to use [readme.so](https://readme.so/) to help you structure your README.
 
 **Challenge** (5 minutes): Edit the [README.md file for this lesson](https://github.com/au-research/github-training/blob/main/README.md). What happens differently?
