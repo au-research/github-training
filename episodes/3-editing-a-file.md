@@ -27,7 +27,7 @@ If you *do* have the right to edit files, you can edit the file and commit the c
 
 If you *do not* have the right to edit files, GitHub will automatically fork the repo for you to work in, and let you submit a pull request so that your changes can be reviewed before being incorporated.
 
-**Demonstration** (5 minutes): Create a LICENCE.md file containg the text of your preferred Creative Commons licence (but not CC0!)
+**Demonstration** (5 minutes): Create a LICENCE.md file containing the text of your preferred Creative Commons licence (but not CC0!)
 
 **Challenge** (15 minutes): Edit the README.md file in the repo you created in episode 2. Use some markdown formatting to add a link to LICENCE.md before committing your changes directly to the main branch. Do not create a new branch and start a pull request - we will be doing that later in this workshop.
 
