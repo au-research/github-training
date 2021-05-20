@@ -25,4 +25,4 @@ When you submit a pull request, it is important to follow a repo’s contributio
 
 Another useful file to add to your project is a [REUSE.md](https://au-research.github.io/ARDC-23-things/researchdata/reuse). By outlining the reuse possibilities, you are making your material a little FAIRer.
 
-**Activity** (20 minutes): Fork your partner's repo and make changes to one or more of the files. Then, submit a pull request for your partner to review. Then, swap roles and repeat.
+**Challenge** (20 minutes): Fork your partner's repo and make changes to one or more of the files. Then, submit a pull request for your partner to review. Then, swap roles and repeat.
