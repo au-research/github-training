@@ -30,7 +30,7 @@ Another useful file to add to your project is a [REUSE.md](https://au-research.g
 
 When reviewing a pull request, GitHub will show the "diff" (differences) that were made to file in the repository. Lines in the original files are red and lines in the new files are green. The diff will also highlight particular characters that have changed:
 
-![Screenshot of diff](/assets/diff-screenshot.png)
+![Screenshot of diff]({{ site.baseurl }}/assets/diff-screenshot.png)
 
 The diff makes it easier to spot the changes made while reviewing a pull request.
 
