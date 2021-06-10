@@ -1,6 +1,7 @@
 ---
 title: Extra features
 permalink: /6-extra-features
+layout: episode
 ---
 
 ## Pages

@@ -1,6 +1,7 @@
 ---
 title: Setup and introductions
 permalink: /0-setup-and-introductions
+layout: episode
 ---
 
 This workshop is to introduce you to GitHub and show how it can be used for collaborative projects, such as book sprints and sharing training materials. 

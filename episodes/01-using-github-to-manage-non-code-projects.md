@@ -1,6 +1,7 @@
 ---
 title: Using GitHub to manage non-code projects
 permalink: /1-using-github-to-manage-non-code-projects
+layout: episode
 ---
 
 At the end of this episode, learners will be able to:

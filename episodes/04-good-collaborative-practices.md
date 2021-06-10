@@ -1,6 +1,7 @@
 ---
 title: Good collaborative practices
 permalink: /4-good-collaborative-practices
+layout: episode
 ---
 
 At the end of this episode, learners will be able to:

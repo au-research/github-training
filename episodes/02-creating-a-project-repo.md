@@ -1,6 +1,7 @@
 ---
 title: Creating a project repo
 permalink: /2-creating-a-project-repo
+layout: episode
 ---
 
 At the end of this episode, learners will be able to:

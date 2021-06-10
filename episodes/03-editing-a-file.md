@@ -1,6 +1,7 @@
 ---
 title: Editing a file
 permalink: /3-editing-a-file
+layout: episode
 ---
 
 At the end of this episode, learners will be able to:
@@ -13,7 +14,7 @@ Activities: 20 minutes
 
 You might notice that GitHub can render files with formatting similar to documents and websites - headers, **bold**, *italic*, _underline_, and dot points.
 
-It does this by using a markup language known as markdown. Markdown lets an author use characters to apply formatting to their text. As an example, inspect the ["raw" markdown](https://raw.githubusercontent.com/au-research/your-first-step-to-fair/main/episodes/1-introduction.md) for some [teaching material](https://raw.githubusercontent.com/au-research/your-first-step-to-fair/main/episodes/1-introduction.md). You can also use a service like [HackMD](https://hackmd.io/cSdCixNBSICU4yor5sxwjQ?both) to simultaneously view markdown and the rendered text.
+It does this by using a markup language known as markdown. Markdown lets an author use characters to apply formatting to their text. As an example, inspect the ["raw" markdown](https://raw.githubusercontent.com/au-research/your-first-step-to-fair/main/episodes/01-introduction.md) for some [teaching material](https://au-research.github.io/your-first-step-to-fair/01-introduction). You can also use a service like [HackMD](https://hackmd.io/cSdCixNBSICU4yor5sxwjQ?both) to simultaneously view markdown and the rendered text.
 
 GitHub uses some conventions beyond standard markdown, and so it uses what is called "GitHub-flavored markdown". GitHub has published [a guide for the different formatting options](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) and syntax to using them.
 

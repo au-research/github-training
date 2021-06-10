@@ -1,6 +1,7 @@
 ---
 title: Contributing to a repo
 permalink: /5-contributing-to-a-repo
+layout: episode
 ---
 
 At the end of this episode, learners will be able to:
