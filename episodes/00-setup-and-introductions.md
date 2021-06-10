@@ -1,6 +1,6 @@
 ---
 title: Setup and introductions
-permalink: /0-setup-and-introductions
+permalink: /00-setup-and-introductions
 layout: episode
 ---
 

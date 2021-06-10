@@ -1,6 +1,6 @@
 ---
 title: Editing a file
-permalink: /3-editing-a-file
+permalink: /03-editing-a-file
 layout: episode
 ---
 

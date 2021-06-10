@@ -1,6 +1,6 @@
 ---
 title: Creating a project repo
-permalink: /2-creating-a-project-repo
+permalink: /02-creating-a-project-repo
 layout: episode
 ---
 

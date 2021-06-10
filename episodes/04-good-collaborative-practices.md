@@ -1,6 +1,6 @@
 ---
 title: Good collaborative practices
-permalink: /4-good-collaborative-practices
+permalink: /04-good-collaborative-practices
 layout: episode
 ---
 

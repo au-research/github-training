@@ -1,6 +1,6 @@
 ---
 title: Extra features
-permalink: /6-extra-features
+permalink: /06-extra-features
 layout: episode
 ---
 

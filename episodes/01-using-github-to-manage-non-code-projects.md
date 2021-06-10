@@ -1,6 +1,6 @@
 ---
 title: Using GitHub to manage non-code projects
-permalink: /1-using-github-to-manage-non-code-projects
+permalink: /01-using-github-to-manage-non-code-projects
 layout: episode
 ---
 

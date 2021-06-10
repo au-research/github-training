@@ -1,6 +1,6 @@
 ---
 title: Contributing to a repo
-permalink: /5-contributing-to-a-repo
+permalink: /05-contributing-to-a-repo
 layout: episode
 ---
 
