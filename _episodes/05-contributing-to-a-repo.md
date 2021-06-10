@@ -22,7 +22,7 @@ If you cannot push directly to another repo, but want to submit changes for its 
 
 The repo owner will consider your changes in their review process and accept your changes, suggest revisions to your changes, or reject your changes.
 
-When you submit a pull request, it is important to follow a repo’s contribution guidelines. These guidelines should outline how to submit a change request and what kind of changes are likely to be accepted or rejected. Create a CONTRIBUTING.md file to let others know how they can contribute to your project. For example, this workshop suggests how contributsion can be made by [using a CONTRIBUTING.md](https://github.com/au-research/github-training/blob/main/CONTRIBUTING.md) file.
+When you submit a pull request, it is important to follow a repo’s contribution guidelines. These guidelines should outline how to submit a change request and what kind of changes are likely to be accepted or rejected. Create a CONTRIBUTING.md file to let others know how they can contribute to your project. For example, this workshop suggests how contributions can be made by [using a CONTRIBUTING.md](https://au-research.github.io/github-training/contributing) file.
 
 Another useful file to add to your project is a [REUSE.md](https://au-research.github.io/ARDC-23-things/researchdata/reuse). By outlining the reuse possibilities, you are making your material a little FAIRer.
 
