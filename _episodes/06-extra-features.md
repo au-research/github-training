@@ -14,4 +14,4 @@ Demonstration: (5 minutes) Here is how we used GitHub pages to create a one stop
 
 ## Zenodo
 
- A GitHub repo can be linked to Zenodo, so that when a new release is created in GitHub, Zenodo automatically makes an archival copy of the repo and issues that release with a DOI.
+ A GitHub repo can be linked to Zenodo, so that when a new release is created in GitHub, Zenodo automatically makes an archival copy of the repo and issues that release with a DOI. GitHub has produced [a guide to making your repository citable](https://guides.github.com/activities/citable-code/) with Zenodo.
