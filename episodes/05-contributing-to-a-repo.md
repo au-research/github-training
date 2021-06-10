@@ -26,4 +26,12 @@ When you submit a pull request, it is important to follow a repo’s contributio
 
 Another useful file to add to your project is a [REUSE.md](https://au-research.github.io/ARDC-23-things/researchdata/reuse). By outlining the reuse possibilities, you are making your material a little FAIRer.
 
+## What's the diff?
+
+When reviewing a pull request, GitHub will show the "diff" (differences) that were made to file in the repository. Lines in the original files are red and lines in the new files are green. The diff will also highlight particular characters that have changed:
+
+![Screenshot of diff](/assets/diff-screenshot.png)
+
+The diff makes it easier to spot the changes made while reviewing a pull request.
+
 **Challenge** (20 minutes): Fork your partner's repo and make changes to one or more of the files. Then, submit a pull request for your partner to review. Then, swap roles and repeat.
