@@ -5,22 +5,25 @@ layout: episode
 ---
 
 At the end of this episode, learners will be able to:
+
 * List reasons why GitHub is a suitable platform for collaborative, non-code projects
 * Know where to get help with GitHub and its features
+
 Teaching: 10 minutes
 
-GitHub originally started as a collaborative platform for software development projects. Based on git, it has a robust version control system that allows one or more people to work concurrently on a project, have a formal review process, and manage conflicts between contributions.
+[GitHub](https://github.com/) originally started as a collaborative platform for software development projects. Based on git, it has a robust version control system that allows one or more people to work concurrently on a project, have a formal review process, and manage conflicts between contributions.
 
-This robust system has many conventions that become second nature over time, but can be daunting to new users. In this session we will be learning these terms and concepts:
+## Version control
 
-* Repo (Repository - aka ree-po and reppo)
-* Clone
-* Fork
-* Branch
-* Commit
-* Issue
-* Pull request
-* GitHub-flavoured markdown
+A version control system is commonly used in software develop to manage all the files a project contains. The system tracks all changes to a set of files it has been directed to monitor, and maintains a full history from its initialisation. In case of emergency, a user can easily roll an entire project, or portions of a project, back to a previous state. A version control system is *not* a suitable replacement for a proper backup regime.
+
+## GitHub and git
+
+[GitHub](https://github.com/) and similar sites such as [GitLab](https://about.gitlab.com/) and [BitBucket](https://bitbucket.org/) all use [git](https://git-scm.com/) as their underlying technology. Git can run on almost any computer and is available for both command line and graphical user interfaces. Git support is also integrated into many text editors and integrated software development environments.
+
+This lesson focuses entirely on working on the GitHub platform, but many of the concepts introduced also apply to GitLab and BitBucket.
+
+## Building on git
 
 On top of its version control and collaboration capabilities, GitHub also offers a number of other features that make it useful for project management.
 
