@@ -17,15 +17,15 @@ Teaching: 10 minutes
 
 A version control system is commonly used in software develop to manage all the files a project contains. The system tracks all changes to a set of files it has been directed to monitor, and maintains a full history from its initialisation. In case of emergency, a user can easily roll an entire project, or portions of a project, back to a previous state. A version control system is *not* a suitable replacement for a proper backup regime.
 
-![play-changes]({{ site.baseurl }}/images/play-changes.svg)
+![Changes to a file over time](../images/play-changes.svg)
 
 In collaborative projects, it is common for more than one contributor to make changes to the same file or document, which can lead to different versions of that file or document.
 
-![versions]({{ site.baseurl }}/images/versions.svg)
+![Different versions](../images/versions.svg)
 
 A good version control system will let you merge multiple versions of a document together.
 
-![merge]({{ site.baseurl }}/images/merge.svg)
+![Merging versions](../images/merge.svg)
 
 ## GitHub and git
 
